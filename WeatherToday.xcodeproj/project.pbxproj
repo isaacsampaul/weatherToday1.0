@@ -23,7 +23,6 @@
 		F4A243EF1DD48274002279C3 /* Pin+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A243ED1DD48274002279C3 /* Pin+CoreDataClass.swift */; };
 		F4A243F01DD48274002279C3 /* Pin+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A243EE1DD48274002279C3 /* Pin+CoreDataProperties.swift */; };
 		F4A243F21DD4857C002279C3 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A243F11DD4857C002279C3 /* Network.swift */; };
-		F4FFF5B11DD5F10800ABDB6C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F4FFF5B01DD5F10800ABDB6C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,7 +65,6 @@
 		F4A243ED1DD48274002279C3 /* Pin+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Pin+CoreDataClass.swift"; sourceTree = "<group>"; };
 		F4A243EE1DD48274002279C3 /* Pin+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Pin+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		F4A243F11DD4857C002279C3 /* Network.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
-		F4FFF5B01DD5F10800ABDB6C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = WeatherToday/README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +99,6 @@
 				F4A243C71DD45334002279C3 /* WeatherTodayTests */,
 				F4A243D21DD45334002279C3 /* WeatherTodayUITests */,
 				F4A243AE1DD45334002279C3 /* Products */,
-				F4FFF5B01DD5F10800ABDB6C /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -335,7 +332,6 @@
 				F49C7F661DD4BB6B00010CD0 /* GCDBlackBox.swift in Sources */,
 				F4A243B91DD45334002279C3 /* WeatherToday.xcdatamodeld in Sources */,
 				F4A243F21DD4857C002279C3 /* Network.swift in Sources */,
-				F4FFF5B11DD5F10800ABDB6C /* README.md in Sources */,
 				F4A243E21DD46B67002279C3 /* MapViewController.swift in Sources */,
 				F4A243EA1DD48081002279C3 /* WeatherViewController.swift in Sources */,
 				F4A243B11DD45334002279C3 /* AppDelegate.swift in Sources */,
